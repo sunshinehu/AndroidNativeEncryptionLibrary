@@ -1,0 +1,3 @@
+# ninja log v5
+1	444	0	CMakeFiles/encryption.dir/src/main/cpp/encryption.cpp.o	da2f842722921fc9
+445	666	0	../../../../build/intermediates/cmake/debug/obj/mips64/libencryption.so	323315c92bd4278f
