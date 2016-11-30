@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidNativeEncryptionLibrary.iml" filepath="$PROJECT_DIR$/AndroidNativeEncryptionLibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-native-encryption/android-native-encryption.iml" filepath="$PROJECT_DIR$/android-native-encryption/android-native-encryption.iml" />
     </modules>
   </component>
 </project>

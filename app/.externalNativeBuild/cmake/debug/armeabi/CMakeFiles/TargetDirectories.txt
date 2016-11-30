@@ -1,3 +1,0 @@
-E:/Demos/AndroidNativeEncryptionLibrary/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/encryption.dir
-E:/Demos/AndroidNativeEncryptionLibrary/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/edit_cache.dir
-E:/Demos/AndroidNativeEncryptionLibrary/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/rebuild_cache.dir

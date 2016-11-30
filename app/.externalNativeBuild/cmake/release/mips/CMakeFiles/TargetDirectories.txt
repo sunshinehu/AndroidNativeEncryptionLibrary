@@ -1,3 +1,0 @@
-E:/Demos/AndroidNativeEncryptionLibrary/app/.externalNativeBuild/cmake/release/mips/CMakeFiles/encryption.dir
-E:/Demos/AndroidNativeEncryptionLibrary/app/.externalNativeBuild/cmake/release/mips/CMakeFiles/edit_cache.dir
-E:/Demos/AndroidNativeEncryptionLibrary/app/.externalNativeBuild/cmake/release/mips/CMakeFiles/rebuild_cache.dir
